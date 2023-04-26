@@ -17,11 +17,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281236167286','6281236167286']
-global.ownernomer = "6281236167286"
-global.premium = ['6281236167286']
-global.packname = 'Sanzz'
-global.author = 'Fhldx17'
+global.owner = ['6282181337337','6281273677810']
+global.ownernomer = "6282181337337"
+global.premium = ['6282181337337']
+global.packname = 'Artabotz'
+global.author = 'Rezza'
 global.sessionName = 'Daffaaa XD'
 global.prefa = ['','!','.','#','&']
 global.namebotmu = '4U'
@@ -64,11 +64,11 @@ global.thumb = fs.readFileSync('./DidinMedia/didin.png')
 global.didinbc = fs.readFileSync('./DidinMedia/didinbc.png')
 global.rules = fs.readFileSync('./DidinMedia/rules.jpg')
 global.xc = fs.readFileSync('DidinMedia/didinxc.jpg')
-global.mygit = 'https://github.com/4ksanzz'
+global.mygit = 'https://github.com/arrezza20'
 global.myyt = 'https://www.youtube.com/@4KSanzz'
 global.myytv = 'https://www.youtube.com/@4KSanzz'
-global.botname = '4U'
-global.akulaku = 'sanzzy'
+global.botname = 'For You'
+global.akulaku = 'Rezza'
 global.ytname = '@4KSanzz'
 global.emot = {
 role: '🏆',
